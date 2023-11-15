@@ -33,5 +33,9 @@
 <a href="/site.html">상태정보 유지 기술 : 요청 단위</a>
 <br>
 <a href="/dispatcher1">포워드</a>
+<br>
+<a href="/userjoin/join.html">회원가입</a>
+<br>
+<a href="/userjoin/loginout.html">로그인</a>
 </body>
 </html>
